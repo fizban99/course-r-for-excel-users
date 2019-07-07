@@ -1,8 +1,8 @@
 ---
 title: 'Chapter 1: Getting started'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'This chapter will explain how to setup the environment in your computer 
+  so that you can practice what you learn in this course.'
 prev: null
 next: /chapter2
 type: chapter
